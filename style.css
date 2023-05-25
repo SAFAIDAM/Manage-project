@@ -601,7 +601,7 @@ footer .search p {
     position: relative;
   }
   footer .network::after {
-    content: "Copyright 2020. All Rights Reserved";
+    content: "Copyright Manage 2023. All Rights Reserved";
     position: absolute;
     top: 150%;
     color: #a1a1a1;
