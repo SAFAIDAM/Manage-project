@@ -440,7 +440,7 @@ footer .search p {
 }
 @media (max-width: 900px) {
   body {
-    background-image: url(../images/bg-simplify-section-mobile.svg);
+    background-image: url(./images/bg-simplify-section-mobile.svg);
   }
   header {
     width: 80%;
