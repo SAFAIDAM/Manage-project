@@ -16,7 +16,7 @@
   color: var(--dark-blue);
 }
 body{
-  background-image: url(../images/bg-simplify-section-desktop.svg);
+  background-image: url(./images/bg-simplify-section-desktop.svg);
   background-repeat: no-repeat;
   background-position: top;
   position: relative;
